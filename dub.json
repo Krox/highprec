@@ -5,5 +5,7 @@
 	"authors": ["Simon Bürger"],
 	"homepage": "https://github.com/krox/highprec",
 	"copyright": "written by Simon Bürger, 2017, public domain",
-	"license": "public domain"
+	"license": "public domain",
+
+	"dflags-ldc" : ["-mattr=fma"],
 }
