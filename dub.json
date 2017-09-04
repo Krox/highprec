@@ -1,0 +1,9 @@
+{
+	"name": "highprec",
+	"description": "Efficient high precision floating point operations using the 'double-double' type.",
+
+	"authors": ["Simon Bürger"],
+	"homepage": "https://github.com/krox/highprec",
+	"copyright": "written by Simon Bürger, 2017, public domain",
+	"license": "public domain"
+}
